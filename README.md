@@ -3,6 +3,7 @@
 
 🌱
 I’m currently venturing into **IoT**, **Data Analytics** and **ML**
+
 I also am a novice web developer 
 
 <!--
