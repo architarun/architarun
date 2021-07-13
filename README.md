@@ -2,6 +2,7 @@
 #### My name is Archit Arun 🏋️‍♂ and I'm an ECE B.Tech student at **VIT Vellore** 
 
 🌱
+
 I’m currently venturing into **IoT**, **Data Analytics** and **ML**
 
 I also am a novice web developer 
