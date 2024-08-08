@@ -1,5 +1,6 @@
 ### Hi there 👋
-#### My name is Archit Arun 🏋️‍♂ and I'm an ECE B.Tech student at **VIT Vellore** 
+#### My name is Archit Arun 🏋️‍♂ 
+#### I graduated from VIT Vellore in 2022 with degree in Electronics and Communications Engineering. I then joined Adobe to work as a Technical Consultant
 
 🌱
 
